@@ -1,5 +1,5 @@
 slider:
-  enable : true
+  enable : false
 sliderItem:
   # slider item
   - preTitle : "Sleep With Other Men"

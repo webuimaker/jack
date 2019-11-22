@@ -1,3 +1,5 @@
+
+
 .navbar .nav-item .nav-link{
 	white-space:nowrap;
 }
@@ -57,4 +59,8 @@
 			display: list-item;
 		}
 	}
+}
+
+.banner-feature-wrapper {
+    transform: translateY(100px);
 }
