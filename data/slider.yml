@@ -1,0 +1,37 @@
+slider:
+  enable : true
+sliderItem:
+  # slider item
+  - preTitle : "Sleep With Other Men"
+    title : "How To Get Your Wife Willingly"
+    shortDescription : "Who Else Wants To Learn The Secrets To Finally Getting Your Wife To Cuckold You or Become A Hotwife… Even If She Said It Would Never Happen!"
+    bgImage : "images/slider/banner-1.webp"
+    bgImageAlt : "images/slider/banner-1.jpg"
+    animation : "fadeInUp"
+    button:
+      enable : true
+      btnText : "more details"
+      URL : "/about"
+      animation : "zoomIn"
+      
+
+# banner feature
+feature :
+  enable : ture
+  # Max use 4 item
+  featureItem :
+    - title : "Free Resources"
+      icon : "fa-diamond"
+      description : "Lorem ipsum dolor sit amet constur adipelit sed."
+      
+    - title : "Free Assessments"
+      icon : "fa-bar-chart"
+      description : "Lorem ipsum dolor sit amet constur adipelit sed."
+      
+    - title : "Do It Yourself"
+      icon : "fa-lightbulb-o"
+      description : "Lorem ipsum dolor sit amet constur adipelit sed."
+      
+    - title : "One-On-One Help"
+      icon : "fa-dashboard"
+      description : "Lorem ipsum dolor sit amet constur adipelit sed."
