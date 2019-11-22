@@ -18,7 +18,31 @@
 			Because each of those situations is different, they each call for taking a different approach in order to get your wife to "take the plunge". In order to make sure you don't waste your time reading information that won't apply to your unique situation, I'm going to suggest that you complete my FREE Cuckold/Hotwife Probability Assessment.
 		</p>
 		
+		  {{ if .Site.Data.slider.feature.enable}}
+		  {{ "<!-- banner feature -->" | safeHTML }}
+		  <section class="banner-feature-wrapper my-5">
+			<div class="container">
+			  <div class="row justify-content-center">
+				{{ range .Site.Data.slider.feature.featureItem }}
+				{{ "<!-- feature item -->" | safeHTML }}
+				<div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+				  <div class="bg-white py-5 px-4 text-center box-shadow banner-feature">
+					<div class="icon-bg mb-4 water-wave">
+					  <i class="fa {{ .icon }} icon text-primary"></i>
+					</div>
+					<h4 class="mb-4">{{ .title }}</h4>
+					<p>{{ .description }}</p>
+				  </div>
+				</div>
+				{{ end }}
+			  </div>
+			</div>
+		  </section>
+		  {{ "<!-- /banner feature -->" | safeHTML }}
+		  {{ end }}
+		
 		{{ partial "feature-box.html" . }}
+		
 		
 		
 		
