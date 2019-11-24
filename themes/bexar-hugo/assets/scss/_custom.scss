@@ -64,3 +64,12 @@
 .banner-feature-wrapper {
     transform: translateY(0px);
 }
+
+.row:before, .row:after {display: none !important;}
+.navbar{
+	display: block;
+	text-align:center;
+}
+
+.navbar-expand-lg .navbar-nav {display: block; width:100%}
+.navbar-expand-lg .navbar-nav li{display: inline-block;}

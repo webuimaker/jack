@@ -41,6 +41,8 @@
                 {{ end }}
               </ul>
             </div>
+            </div>
+			<div class="row">
             {{ if .Site.Params.newsletter.enable }}
             <!-- newsletter -->
             <div class="col-12">
@@ -117,7 +119,15 @@
 
 {{ "<!-- Google Map API -->" | safeHTML }}
 <script src="{{ .Site.Params.gmapAPI | absURL }}"></script>
+
+<!-- jQuery -->
+
+<script src="//localhost:1313/js/jquery-2.0.0.min.js"></script>
+
+
+
 {{ "<!-- JS Plugins -->" | safeHTML }}
+
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .URL | absURL }}"></script>
 {{ end }}
