@@ -48,47 +48,6 @@ paginate = 6
 
 # navigation
 [menu]
-    
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 2
-
-  [[menu.main]]
-  weight = 3
-  name = "Free Resources"
-  hasChildren = true
-  identifier = "FreeResources"
-  
-  [[menu.main]]
-  weight = 4
-  name = "Free Assessments"
-  hasChildren = true
-  identifier = "FreeAssessments"
-  
-  [[menu.main]]
-  weight = 5
-  name = "Do It Yourself"
-  hasChildren = true
-  identifier = "DoItYourself"
-  
-  [[menu.main]]
-  weight = 5
-  name = "One-On-One Help"
-  hasChildren = true
-  identifier = "One-On-One-Help"
-  
-  [[menu.main]]
-  weight = 7
-  name = "Chatroom"
-  hasChildren = true
-  identifier = "Chatroom"
-  
-  [[menu.main]]
-  weight = 6
-  name = "About"
-  hasChildren = true
-  identifier = "About"
   
 	
 	
