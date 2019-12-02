@@ -116,3 +116,18 @@
     width: 90%;
     margin: 0px auto;}
 }
+
+.img-content{
+	position:relative;
+	.img-container.left-image, .img-container.right-image{	
+		width: 30%;
+		text-align: center;
+		float:left;
+		margin-right:2%
+	}
+	.img-container.right-image{	
+		
+		float:right;
+		margin-left:2%
+	}
+}

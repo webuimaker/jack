@@ -1,0 +1,8 @@
+
+<div class="heading_block ">
+	{{- $class := .Get "class" -}}
+    <div class="heading_block__heading text-{{$class}}">
+        <h{{ .Get "heading_number" }} class="heading_block__heading__text" >{{ .Get "heading_content" }}</h{{ .Get "heading_number" }}>
+    </div><!-- .heading_block__heading -->
+   {{.Inner}}
+</div><!-- .heading_block -->
