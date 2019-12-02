@@ -68,7 +68,7 @@ paginate = 6
   
 
 [params]
-logo = "images/logo.png"
+logo = "/images/logo.png"
 logoAlt = "images/logo-alt.png"
 home = "Home"
 # Meta data
