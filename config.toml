@@ -14,35 +14,35 @@ paginate = 6
 
   # CSS Plugins
   [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.css"
+  URL = "/plugins/bootstrap/bootstrap.css"
   [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
+  URL = "/plugins/slick/slick.css"
   [[params.plugins.css]]
-  URL = "plugins/fontawesome/font-awesome.min.css"
+  URL = "/plugins/fontawesome/font-awesome.min.css"
   [[params.plugins.css]]
-  URL = "plugins/venobox/venobox.css"
+  URL = "/plugins/venobox/venobox.css"
 
   # JS Plugins
   [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery-2.0.0.min.js"
+  URL = "/plugins/jQuery/jquery-2.0.0.min.js"
   [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.bundle.min.js"
+  URL = "/plugins/bootstrap/bootstrap.bundle.min.js"
   [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
+  URL = "/plugins/slick/slick.min.js"
   [[params.plugins.js]]
-  URL = "plugins/google-map/gmap.js"
+  URL = "/plugins/google-map/gmap.js"
   [[params.plugins.js]]
-  URL = "plugins/venobox/venobox.min.js"
+  URL = "/plugins/venobox/venobox.min.js"
   [[params.plugins.js]]
-  URL = "plugins/modernizer/modernizr.min.js"
+  URL = "/plugins/modernizer/modernizr.min.js"
   [[params.plugins.js]]
-  URL = "plugins/filterizr/jquery.filterizr.min.js"
+  URL = "/plugins/filterizr/jquery.filterizr.min.js"
   [[params.plugins.js]]
-  URL = "plugins/search/fuse.min.js"
+  URL = "/plugins/search/fuse.min.js"
   [[params.plugins.js]]
-  URL = "plugins/search/mark.js"
+  URL = "/plugins/search/mark.js"
   [[params.plugins.js]]
-  URL = "plugins/search/search.js"
+  URL = "/plugins/search/search.js"
   
 
 
