@@ -93,6 +93,16 @@
 .mainmenu .collapse ul ul ul, .mainmenu .collapse ul ul ul.dropdown-menu{background:#425063}
 .mainmenu .collapse ul ul ul ul, .mainmenu .collapse ul ul ul ul.dropdown-menu{background:#64B5F6}
 
+.img-content{
+	ul{
+		li{
+			list-style: disc;
+			margin-bottom:10px;
+		}
+	}
+	
+}
+
 /******************************Drop-down menu work on hover**********************************/
 .mainmenu{background: none;border: 0 solid;margin: 0;padding: 0;min-height:20px;width: 100%;}
 @media only screen and (min-width: 767px) {
