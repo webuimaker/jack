@@ -261,6 +261,84 @@ And if you're still worried that your wife would find out about the charge, you 
 
 	
 {{< /content >}}
+{{% align heading_number="3" heading_content="This Offer Expires In:"  class="center" %}} {{% /align %}}
+
+
+{{% align heading_number="3" heading_content=""  class="center" %}} 
+	<p> <img src="/images/buy-now.png" alt="img"> </p>
+	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
+{{% /align %}}
+**Time is Very Much "Of the Essence"...** This special offer giving you the opportunity to get $147 worth of services for just $7 will expire after 24 hours. After that time expires, you'll no longer have access to the special discounted price, or the FREE access to the bonuses.
+
+So in case what you should do isn't crystal clear yet, think about something for a minute.
+
+This fantasy of yours, the desire you have inside to make it happen—think about when you first realized it was a turn on for you…perhaps it was only some weak wish you had, maybe even one you were hesitant to admit to yourself…and think about how it’s now become a full-fledged and hard-on desire…one that isn’t going away.
+
+Think about how over time it’s only gotten more pronounced, louder, bigger, how you’ve become more obsessed. Think about how the longer you go without taking steps to actually do something about it that it just sits under the surface repressed, unfulfilled, and because of that—it starts to eat away at you.
+
+The urges you have find other negative ways to express themselves, and your relationship starts to suffer because of repressed sexual and emotional desire.
+
+It becomes harder (and easier) to hide who you really are, and you unintentionally start to create distance in your relationship by escaping into the porn world.
+
+I want you to know that you don’t need to be controlled by that fear any longer. But the time to act is NOW. Delaying only makes it worse—you and I both know it.
+
+So do yourself and your relationship a favor. Click on the "Buy Now" button below to get *instant access* to **The Cuckold's Compass Objection Guide** *Risk-Free* for just $7...
+
+
+{{% align heading_number="3" heading_content=""  class="center" %}} 
+	<p> <img src="/images/buy-now.png" alt="img"> </p>
+	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
+{{% /align %}}
+
+---
+{{% align heading_number="3" heading_content="My 'Double' You'll Love It Guarantee"  class="center" %}} {{% /align %}}
+
+
+{{< content src="/images/guarantee-300x219.png" class="left-image" borderColor="" borderStyle="" backgroundColor="" width=""  >}}
+
+<p class="mb-5"><strong>Guarantee #1&nbsp; </strong>If for any reason you think this guide&nbsp;isn’t the best $7 you’ve ever spent just send me an email and I’ll gladly refund you whole $7 big cash dollars.</p>
+
+<p><strong>Guarantee #2&nbsp; </strong>Tell me you didn’t learn ANYTHING from either this special guide or the free assessment found <a href="https://thecuckoldconsultant.com/" target="_blank" rel="noopener">on the homepage,</a>&nbsp;I’ll refund you DOUBLE your money back. How’s that for fair?</p>
+	
+	
+{{< /content >}}
+
+---
+
+{{% align heading_number="3" heading_content="Here's What You Need To Do Now"  class="center" %}} {{% /align %}}
+
+Alright—I told you everything you need to know, so this is what you’re going to do now… You’re going to click the “Buy Now” button below and you’re going to choose to pay either with a credit/debit card or a Paypal account.
+
+
+Once you enter and submit your information, you’ll immediately be given a personal link so you can instantly download your special guide. You’ll also be given an email confirmation with same download link. Go ahead and click the button below.
+
+
+{{% align heading_number="3" heading_content=""  class="center" %}} 
+	<p> <img src="/images/buy-now.png" alt="img"> </p>
+	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
+{{% /align %}}
+
+
+**P.S.**  Don’t be one of those guys who think that they wouldn’t be able to make their fantasy happen, only to have it linger beneath the surface unfulfilled. On some level, you’ll be unsatisfied, your wife will be able to feel it, and it’ll start to negatively impact the relationship—that is, if it hasn’t already. You deserve better than that; your wife deserves better than that. She deserves more satisfaction, and she wants it. I’m going to tell you how to open her mind up to experiencing what both of you deep down would benefit from. So click the buy now button and complete your order.
+
+**P.P.S.** If you want to not only increase the likelihood of being able to make your fantasy come true but also ensure your success, the odds are against you unless start the right way. This information is going to help make sure you don’t blow up your chances of making your fantasy happen—no matter how resistant you think your wife might be, or how extreme your fantasy. Either you get it now or you miss out, and I’m washing my hands of you. This is your last chance—so make it happen.
+
+{{% align heading_number="3" heading_content=""  class="center" %}} 
+	<p> <img src="/images/buy-now.png" alt="img"> </p>
+	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
+{{% /align %}}
+
+{{% align heading_number="3" heading_content="This Offer Expires In:"  class="center" %}} {{% /align %}}
+
+
+
+
+
+
+
+
+
+
 
 
 
