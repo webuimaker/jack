@@ -69,7 +69,7 @@ paginate = 6
 
 [params]
 logo = "/images/logo.png"
-logoAlt = "images/logo-alt.png"
+logoAlt = "/images/logo-alt.png"
 home = "Home"
 # Meta data
 description = "Bexar hugo template meta description."
