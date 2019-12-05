@@ -230,22 +230,14 @@ Option 4) **Pay anonymously using cryptocurrency**. Contact me using the "Leave 
 Like I said, I take discretion very seriously. If you have ANY trouble at all, click the message icon in the bottom right hand corner of the screen and you can contact me in real time, or leave a message.
 
 Below the “buy now” button is a screenshot of what happens when you click the "buy now" button.
-{{% align heading_number="3" heading_content=""  class="center" %}} 
-	<p> <img src="/images/buy-now.png" alt="img"> </p>
-	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
-	<img src="/images/diy1-300x258.png" alt="img"> 
-	<p>After that, you can just click checkout to pay via credit/debit or click PayPal. See below. </p>
-	<img src="/images/diy2-285x300.png" alt="img"> 
-	<p>It's literally that easy.</p>	
-
-	
+{{% align heading_number="3" heading_content=""  class="center" %}} <p> <img src="/images/buy-now.png" alt="img"> </p><p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
+<img src="/images/diy1-300x258.png" alt="img"> 	<p>After that, you can just click checkout to pay via credit/debit or click PayPal. See below. </p><img src="/images/diy2-285x300.png" alt="img"> <p>It's literally that easy.</p>
 {{% /align %}}
 
 And if you're still worried that your wife would find out about the charge, you can truthfully confess that you bought an online guide giving you “17 Different Ways To Wow Your Wife With Romance” because that’s actually part of the guide!
-{{% align heading_number="3" heading_content=""  class="center" %}} 
-	<p> <img src="/images/buy-now.png" alt="img"> </p>
-	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
+{{% align heading_number="3" heading_content=""  class="center" %}} <p> <img src="/images/buy-now.png" alt="img"> </p>	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
 {{% /align %}}
+
 {{% align heading_number="3" heading_content="Why It's Just $7"  class="center" %}} {{% /align %}}
 
 
@@ -264,9 +256,7 @@ And if you're still worried that your wife would find out about the charge, you 
 {{% align heading_number="3" heading_content="This Offer Expires In:"  class="center" %}} {{% /align %}}
 
 
-{{% align heading_number="3" heading_content=""  class="center" %}} 
-	<p> <img src="/images/buy-now.png" alt="img"> </p>
-	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
+{{% align heading_number="3" heading_content=""  class="center" %}} <p> <img src="/images/buy-now.png" alt="img"> </p> <p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
 {{% /align %}}
 **Time is Very Much "Of the Essence"...** This special offer giving you the opportunity to get $147 worth of services for just $7 will expire after 24 hours. After that time expires, you'll no longer have access to the special discounted price, or the FREE access to the bonuses.
 
@@ -285,9 +275,7 @@ I want you to know that you don’t need to be controlled by that fear any longe
 So do yourself and your relationship a favor. Click on the "Buy Now" button below to get *instant access* to **The Cuckold's Compass Objection Guide** *Risk-Free* for just $7...
 
 
-{{% align heading_number="3" heading_content=""  class="center" %}} 
-	<p> <img src="/images/buy-now.png" alt="img"> </p>
-	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
+{{% align heading_number="3" heading_content=""  class="center" %}} <p> <img src="/images/buy-now.png" alt="img"> </p><p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
 {{% /align %}}
 
 ---
@@ -313,9 +301,7 @@ Alright—I told you everything you need to know, so this is what you’re going
 Once you enter and submit your information, you’ll immediately be given a personal link so you can instantly download your special guide. You’ll also be given an email confirmation with same download link. Go ahead and click the button below.
 
 
-{{% align heading_number="3" heading_content=""  class="center" %}} 
-	<p> <img src="/images/buy-now.png" alt="img"> </p>
-	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
+{{% align heading_number="3" heading_content=""  class="center" %}} <p> <img src="/images/buy-now.png" alt="img"> </p><p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
 {{% /align %}}
 
 
@@ -323,9 +309,7 @@ Once you enter and submit your information, you’ll immediately be given a pers
 
 **P.P.S.** If you want to not only increase the likelihood of being able to make your fantasy come true but also ensure your success, the odds are against you unless start the right way. This information is going to help make sure you don’t blow up your chances of making your fantasy happen—no matter how resistant you think your wife might be, or how extreme your fantasy. Either you get it now or you miss out, and I’m washing my hands of you. This is your last chance—so make it happen.
 
-{{% align heading_number="3" heading_content=""  class="center" %}} 
-	<p> <img src="/images/buy-now.png" alt="img"> </p>
-	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
+{{% align heading_number="3" heading_content=""  class="center" %}} <p> <img src="/images/buy-now.png" alt="img"> </p><p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
 {{% /align %}}
 
 {{% align heading_number="3" heading_content="This Offer Expires In:"  class="center" %}} {{% /align %}}
