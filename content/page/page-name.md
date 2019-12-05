@@ -211,10 +211,10 @@ As soon as you place your order, you’ll receive your personal download link to
 {{% align heading_number="3" heading_content="Had Enough Yet?"  class="center" %}} {{% /align %}}
 
 So if you’ve decided you’re done reading and don’t want to waste another minute in getting your guide, click the “Buy Now” button below.
-{{% align heading_number="3" heading_content=""  class="center" %}} 
-	<p> <img src="/images/buy-now.png" alt="img"> </p>
-	<p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p>
-{{% /align %}}
+
+{{% align heading_number="3" heading_content=""  class="center" %}} <p> <img src="/images/buy-now.png" alt="img"> </p><p> <img src="/images/3amex.png" alt="img"> <img src="/images/3discover.png" alt="img"> <img src="/images/3mastercard.png" alt="img"> <img src="/images/3paypal.png" alt="img"> <img src="/images/3visa.png" alt="img"> </p> {{% /align %}}
+
+
 {{% align heading_number="3" heading_content="Ultimate Discretion Guaranteed"  class="center" %}} {{% /align %}}
 
 Discretion is important in this business—and I take that seriously. Your payment/financial information is NOT stored, and you can also pay in multiple ways.
