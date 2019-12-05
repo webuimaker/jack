@@ -131,11 +131,17 @@
 .mainmenu .collapse ul ul ul li{position:relative}
 .mainmenu .collapse ul ul ul li:hover ul{display:block}
 .mainmenu .collapse ul ul ul ul{position:absolute;top:0;left:-100%;min-width:250px;display:none;z-index:1}
-img{max-width:100% !important}
+img{max-width:90% !important}
 .img-content{width:100% !important; }
 
 h1, .h1 {
     font-size: 36px;
+}
+h2, .h2 {
+    font-size: 30px;
+}
+h3, .h3 {
+    font-size: 24px;
 }
 
 .navbar-nav .show .dropdown-menu .dropdown-menu > li > a{padding:16px 15px 16px 35px}
