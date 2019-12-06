@@ -206,11 +206,13 @@ _::-webkit-:host:not(:root:root), .safari_only {
 }
 
 @media only screen and (max-width: 767px) {
-.mainmenu .collapse ul li:hover> ul{display:block}
+	/*
+.mainmenu .collapse ul li:hover> ul{display:block}*/
 .mainmenu .collapse ul ul{position:relative;top:100%;left:0; right:0px; min-width:250px;display:none}
 /*******/
 .mainmenu .collapse ul ul li{position:relative}
-.mainmenu .collapse ul ul li:hover> ul{display:block}
+/*
+.mainmenu .collapse ul ul li:hover> ul{display:block}*/
 .mainmenu .collapse ul ul ul{position:relative;top:0;left:0px; right:0px;min-width:250px;display:none}
 /*******/
 .mainmenu .collapse ul ul ul li{position:relative}
