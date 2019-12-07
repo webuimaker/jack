@@ -204,7 +204,15 @@ _::-webkit-:host:not(:root:root), .safari_only {
 		margin-left:2%
 	}
 }
+.navbar .dropdown-menu{
+	    top: 60px;
+    left: -15px;
+}
 
+.menu-area-nav {
+	ul>li.dropdown>ul, ul>li.dropdown>ul>li.dropdown>ul{display:none;}
+	ul>li.dropdown:hover>ul, ul>li.dropdown>ul>li.dropdown:hover>ul{display:block}
+}
 @media only screen and (max-width: 767px) {
 	/*
 .mainmenu .collapse ul li:hover> ul{display:block}*/
