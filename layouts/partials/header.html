@@ -34,13 +34,13 @@
     <div class="container-fluid">
         <div class="row">
             <nav class="navbar navbar-light navbar-expand-lg mainmenu">
-				 <a class="navbar-brand" href="{{ .Site.BaseURL }}"><img class="img-fluid pb-lg-3" src="{{ .Site.Params.logo | absURL }}" alt="Bexar"></a>
+				 <a class="navbar-brand  pb-lg-0  pt-lg-0" href="{{ .Site.BaseURL }}"><img class="img-fluid" src="{{ .Site.Params.logo | absURL }}" alt="Bexar"></a>
         
 			
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse menu-area-nav" id="navbarSupportedContent">
+                <div class="collapse navbar-collapse menu-area-nav  pb-lg-0" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
 						{{ range .Site.Data.nav.navigation }}
 							{{ if .hasChildren }}
