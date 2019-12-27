@@ -6,7 +6,7 @@ navigation:
     hasChildren : "true"
     subMenu1:
      - subname: "Articles"
-       url: "/Articles"
+       url: "/categories/articles/"
      - subname: "Free e-Books"
        url: "/Free-e-Books"
      - subname: "Exclusive Cuckold & Hotwife Interviews"

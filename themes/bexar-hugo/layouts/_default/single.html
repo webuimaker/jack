@@ -6,7 +6,7 @@
 <section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8">
+      <div class="col-lg-9">
         {{ "<!-- post thumb -->" | safeHTML }}
         <div class="position-relative mb-5">
           <img src="{{ .Params.Image | absURL }}"  onerror="this.src='{{.Params.ImageAlt | absURL }}'" alt="post thumb" class="img-fluid w-100">

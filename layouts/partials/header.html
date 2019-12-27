@@ -50,16 +50,16 @@
 									{{ range .subMenu1 }}	
 										{{ if .subChild }}									
 											<li class= "dropdown">
-												<a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{.subname}}</a>
+												<a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{.subname}} </a>
 												
 												<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
 													{{ range .subChildList }}
-														<li><a href="{{.URL}}">{{.sub2name}}</a></li>
+														<li><a href="{{.URL}}">{{.sub2name}} </a></li>
 													{{end}}
 												</ul>
 											</li>
 										{{ else }}
-											<li><a href="{{.URL}}">{{.subname}}</a></li>
+											<li><a href="{{.url}}">{{.subname}}</a></li>
 										
 										{{end}}
 									{{end}}
@@ -70,7 +70,12 @@
 								<li><a href="{{.URL}}">{{.name}}</a></li>
 							{{end}}
 						{{ end }}
-                        
+						
+						
+						
+						  subMenu1:
+     - subname: "Articles"
+       url: "/categories/articles/"
 						
                     </ul>
                 </div>
