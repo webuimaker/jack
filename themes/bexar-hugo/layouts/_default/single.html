@@ -1,16 +1,18 @@
 {{ define "main" }}
-
+<!--
 {{ partial "page-title.html" . }}
-
+-->
 {{ "<!-- blog details -->" | safeHTML }}
-<section class="section">
+<section class="section pt-5">
   <div class="container">
     <div class="row">
       <div class="col-lg-9">
         {{ "<!-- post thumb -->" | safeHTML }}
+		
+		<h2 class="mb-4">{{ .Title }}</h2>
         <div class="position-relative mb-5">
           <img src="{{ .Params.Image | absURL }}"  onerror="this.src='{{.Params.ImageAlt | absURL }}'" alt="post thumb" class="img-fluid w-100">
-          <div class="card-type hover-ripple">{{ .Params.PostType }}</div>
+          <!--<div class="card-type hover-ripple">{{ .Params.PostType }}</div>-->
         </div>
         <div class="card-meta text-uppercase mb-2">by <strong class="text-dark">{{ .Params.Author }}</strong><!--/ on <strong class="text-dark">{{ .PublishDate.Format "02 Jan 2006" }}</strong> --></div>
         <!--<h2>{{ .Title }}</h2>-->
